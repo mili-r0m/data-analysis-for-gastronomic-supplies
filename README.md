@@ -38,3 +38,7 @@ En el rubro B2B, retener un cliente es crítico. Dado que la base de datos no in
 ## 🚀 Próximos Pasos Posibles
 * Implementar un análisis RFM (Recencia, Frecuencia, Valor Monetario) completo.
 * Desarrollar un modelo de Machine Learning (ej: Random Forest) para predecir la probabilidad de fuga de clientes activos.
+
+
+
+todos los datos utilizados en este desarrollo son ficticios.
